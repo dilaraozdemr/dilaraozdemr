@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilara Özdemir</h1>
-<h3 align="center">Entry level Mobile Application Developer and Junior Product Manager from Turkey</h3>
+<h3 align="center">Mobile Application Developer from Turkey</h3>
 
-- 💬 Ask me about **Flutter,Jira,Project Management**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **dilaraozdmr66@gmail.com**
 
