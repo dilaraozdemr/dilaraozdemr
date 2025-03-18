@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Dilara Özdemir</h1>
 <h3 align="center">Mobile Application Developer from Turkey</h3>
 
-- 💬 Ask me about **Flutter**
+- 💬 Ask me about **Flutter** and **Android**
 
 - 📫 How to reach me **dilaraozdmr66@gmail.com**
 
